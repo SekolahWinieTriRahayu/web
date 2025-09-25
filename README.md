@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>SMK Negeri 79</title>
   <style>
     body {
@@ -214,6 +214,6 @@
 
   <footer>
     <p>&copy; 2025 SMK Negeri 79 | Semua Hak Dilindungi</p>
-  </footer>
+  
 </body>
 </html>
